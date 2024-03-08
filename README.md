@@ -37,4 +37,3 @@ Contributions are welcome! If you have any bug reports, feature requests, or imp
 
 ## Contact Information
 For any questions or inquiries, please contact me at tkumaran59@gmail.com.
-Make sure to update the URLs, file names, and contact information according to your specific project details.
